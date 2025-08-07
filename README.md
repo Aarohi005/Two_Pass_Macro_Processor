@@ -14,6 +14,16 @@ MACRO Name Table
 
 Argument Array List
 
+# Format of Data Structures
+## MACRO Definition Table
+<img width="364" height="233" alt="Screenshot 2025-08-07 181206" src="https://github.com/user-attachments/assets/ab645fc1-d73c-4665-87c7-b8e3c145b304" />
+
+## MACRO Name Table
+<img width="320" height="96" alt="Screenshot 2025-08-07 181216" src="https://github.com/user-attachments/assets/32e794a7-54ba-4b3e-99bb-e7068c70d01f" />
+
+## Argument List Array
+<img width="229" height="141" alt="Screenshot 2025-08-07 181223" src="https://github.com/user-attachments/assets/34218c20-aac4-493c-a58e-e8379fb32c57" />
+
 
 # Pass 1 (Definition of MACROS)
 
